@@ -1,0 +1,14 @@
+@article{Tsuichihara2018,
+  author = {Tsuichihara, Satoki and Hakamata, Yuya and Ricardez, Gustavo Alfonso Garcia and Takamatsu, Jun and Ogasawara, Tsukasa},
+  year = {2018},
+  title = {Real-time whole-body motion generation using torso posture regression and center of mass},
+  journal = {ROBOMECH Journal},
+  issn = {2197-4225},
+  doi = {10.1186/s40648-018-0105-y},
+  volume = {5},
+  month = {12},
+  pages = {8},
+  number = {1},
+  url = {http:https://doi.org/10.1186/s40648-018-0105-y},
+  abstract = {For household humanoid robots, reaching as much workspace as possible with their hands is an important issue because the locations of target objects may range from the floor to above the robot's head. At the same time, to adapt to the constantly-changing household environment, inverse kinematics for the whole body must be solved in real time. In this paper, to achieve real-time motion generation for a humanoid robot, we propose a method of separating the inverse kinematics calculation into simpler problems. Using regression to estimate the torso orientation, we independently solve inverse kinematics for the lower body and both arms. First, using the target pose of both hands as input, we calculate the orientation of the torso and determine the target position of the center of mass considering the reachability of both arms. At each control step, we calculate the joint angles of the lower body from the position of the center of mass, feet poses, and torso orientation. Then, we calculate the joint angles of both arms. In experiments, we apply the proposed method to a human-size humanoid robot for reaching low-height positions while hunkering down. The proposed inverse kinematics solver is ten times faster than the numerical solution using the Jacobian matrix. We also verify the applicability of the proposed method using a sequence of random target positions for the hands as input.}
+}
