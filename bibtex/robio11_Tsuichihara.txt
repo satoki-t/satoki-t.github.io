@@ -1,0 +1,9 @@
+@INPROCEEDINGS{Tsuichihara2011, 
+author={S. Tsuichihara and M. Koeda and S. Sugiyama and T. Yoshikawa}, 
+booktitle={2011 IEEE International Conference on Robotics and Biomimetics}, 
+title={A sliding walk method for humanoid robots using ZMP feedback control}, 
+year={2011},
+pages={275-280}, 
+keywords={PI control;feedback;humanoid robots;motion control;HOAP-2;ZMP feedback control;force distribution;humanoid robots;inverse kinematics;lateral acceleration variations;leg mechanism;sliding forward movements;sliding walk method;zero moment point feedback control;Foot;Gravity;Hip;Humanoid robots;Joints;Sensors}, 
+doi={10.1109/ROBIO.2011.6181298}, 
+month={Dec},}
