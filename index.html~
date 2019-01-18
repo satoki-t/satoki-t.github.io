@@ -73,10 +73,12 @@ $(function($){
   <h2>Employment History</h2>
   <dl class="emp_history">
     <ol>
-      <li>2013. 4~9 : Nursing School in Nara Prefectural Nara Hospital, Part-time lecturer, Basic Science field, Statistics</li>
-      <li>2014. 4~9 : Nursing School in Nara Prefectural Nara Hospital, Part-time lecturer, Basic Science field, Statistics</li>
-      <li>2015. 4~9 : Nursing School in Nara Prefecture General Medical Center, Part-time lecturer, Basic Science field, Statistics</li>
+      <li>2018. 6~(present) : Tokyo University of Science, Department of Mechanical Engineering, Faculty of Science and Technology, Post-doctral Researcher</li>
+      <li>2018. 4~6 : Tokyo University of Science, Research institute for Science and Technology, Researcher</li>
       <li>2016. 4~9 : Nursing School in Nara Prefecture General Medical Center, Part-time lecturer, Basic Science field, Statistics</li>
+      <li>2015. 4~9 : Nursing School in Nara Prefecture General Medical Center, Part-time lecturer, Basic Science field, Statistics</li>
+      <li>2014. 4~9 : Nursing School in Nara Prefectural Nara Hospital, Part-time lecturer, Basic Science field, Statistics</li>
+      <li>2013. 4~9 : Nursing School in Nara Prefectural Nara Hospital, Part-time lecturer, Basic Science field, Statistics</li>
     </ol>
   </dl>
   <h2>Award</h2>
