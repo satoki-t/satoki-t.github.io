@@ -119,17 +119,16 @@ $(function($){
   </dl>
 </div><!-- /.profile -->
 
-この箇所はホームページの説明文など記載するのに最適です。だいたい2～3行程度で収めるのがよいかと思います。
 </p>
 </header>
 
 <nav>
 <ul>
-	<li><a href="index.html">HOME</a></li>
-	<li><a href="index.html">BLOG</a></li>
-	<li><a href="index.html">PROFILE</a></li>
-	<li><a href="index.html">CONTACT</a></li>
-	<li><a href="#sample">SAMPLE</a></li>
+  <li><a href="index.html">HOME</a></li>
+  <li><a href="publication.html">PUBLICATION</a></li>
+  <li><a href="index.html">PROFILE</a></li>
+  <li><a href="index.html">CONTACT</a></li>
+  <li><a href="#sample">SAMPLE</a></li>
 </ul>
 </nav>
 
