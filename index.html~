@@ -46,21 +46,24 @@ $(function($){
     <dd>
       <div>
 	Intelligent Robotics Lab. (Supervisor: Prof. Tsuneo Yoshikawa)<br>
-	Department of Human & Computer Intelligence, Faculty of Information Science, Ritsumeikan University.
+	Department of Human & Computer Intelligence, Faculty of Information Science,<br>
+	Ritsumeikan University.
       </div>
     </dd>
     <dt><span>2013. 3 : Master of Engineering</span></dt>
     <dd>
       <div>
-	Robotics Lab. (Supervisor: Prof. Tsukasa Ogasawara)
-	Graduate school of Information Science, Nara Institute of Science Technology.
+	Robotics Lab. (Supervisor: Prof. Tsukasa Ogasawara)<br>
+	Graduate school of Information Science,<br>
+	Nara Institute of Science Technology.
       </div>
     </dd>
     <dt><span>2018. 6 : Doctor of Engineering</span></dt>
     <dd>
       <div>
-	Robotics Lab. (Supervisor: Prof. Tsukasa Ogasawara)
-	Graduate school of Information Science, Nara Institute of Science Technology.
+	Robotics Lab. (Supervisor: Prof. Tsukasa Ogasawara)<br>
+	Graduate school of Information Science,<br>
+	Nara Institute of Science Technology.
       </div>
     </dd>
   </dl>
