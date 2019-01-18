@@ -1,0 +1,9 @@
+@INPROCEEDINGS{Tsuichihara2016, 
+author={S. Tsuichihara and Y. Hakamata and G. A. G. Ricardez and J. Takamatsu and T. Ogasawara}, 
+booktitle={2016 IEEE-RAS 16th International Conference on Humanoid Robots (Humanoids)}, 
+title={Accelerating whole-body motion generation using regression of the torso posture of a humanoid robot}, 
+year={2016}, 
+pages={16-21}, 
+keywords={humanoid robots;interpolation;motion control;reachability analysis;regression analysis;robot kinematics;CoM;center of mass;humanoid robot;interpolation;inverse kinematics;reachability;regression;torso posture;whole-body motion generation;Humanoid robots;Jacobian matrices;Kinematics;Legged locomotion;Robot kinematics;Torso}, 
+doi={10.1109/HUMANOIDS.2016.7803248}, 
+month={Nov},}
