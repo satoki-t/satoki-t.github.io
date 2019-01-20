@@ -305,9 +305,9 @@ footer {
 
 div.blocka {
    float: left;
-   width: 400px;
+   width: 0px;
 }
 div.blockb {
    float: left;
-   width: 800px;
+   width: 100px;
 }
