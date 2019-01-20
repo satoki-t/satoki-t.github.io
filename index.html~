@@ -33,6 +33,7 @@ $(function($){
     <table width="500">
       <tbody>
 	<tr><th>Name</th><td>Satoki Tsuichihara</td></tr>
+	<tr><th>Job</th><td>Post-doctral researcher</td></tr>
 	<tr><th>Address</th><td>278-8510<br>2641 Yamazaki, Noda, Chiba, Japan<br>Biomechanics Research Laboratory<br>Tokyo University of Science</td></tr>
 	<tr><th>E-mail</th><td>satoki-t [ at ] rs.tus.ac.jp</td></tr>
 	<tr><th>Tel</th><td>04-7124-1501 (internal: 3931)</td></tr>
@@ -87,7 +88,7 @@ $(function($){
     <dd>
       <div>
 	for Gustavo Alfonso Garcia Ricardez, <u>Satoki Tsuichihara</u>, Atsutoshi Ikeda, Akihiko Yamaguchi, Jun Takamatsu, Tsukasa Ogasawara:<br>
-	RT Component for analyzing a motion script to implement a service using the Humanoid Robot HRP-4 (SI2011).
+	<em>RT Component for analyzing a motion script to implement a service using the Humanoid Robot HRP-4</em> (SI2011).
       </div>
     </dd>
   </dl>
@@ -95,7 +96,7 @@ $(function($){
   <dl class="selected">
     <ol>
       <li> <u>Satoki Tsuichihara</u>, Yuya Hakamata, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu, and Tsukasa Ogasawara,<br>
-	<b>Real-time whole-body motion generation using torso posture regression and center of mass</b>,<br>
+	<em>Real-time whole-body motion generation using torso posture regression and center of mass</em>,<br>
 	ROBOMECH Journal, Vol. 5, No. 1, pp. 1-13, 2018.<br>
 	[<a href="https://rdcu.be/MMy5" target="_blank">Robomech Journal</a>][<a href="./bibtex/robomechjournal18_Tsuichihara.txt">bibtex</a>]
       </li>
