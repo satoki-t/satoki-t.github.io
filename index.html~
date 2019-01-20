@@ -41,9 +41,8 @@ $(function($){
       </tbody>
     </table>
   </p>
-  <img src="images/myphoto_small.jpg" alt="フォトサンプル" width="100" height="100">
   <div class="blocka">
-    コンテンツC
+    <img src="images/myphoto_small.jpg" alt="フォトサンプル" width="100" height="100">
   </div>
   <div class="blockb">
     コンテンツD
