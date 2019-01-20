@@ -133,7 +133,7 @@ dd {
 }
 
 table {
-	width:100%;
+	width:80%;
 	margin-bottom:1em;
 	border-collapse:collapse;
 	border:1px solid #ddd;
@@ -305,9 +305,13 @@ footer {
 
 div.blocka {
    float: left;
-   width: 0px;
+   width: 110px;
+   height: 100px;
 }
+
 div.blockb {
    float: left;
-   width: 100px;
+   width: 590px;
+   height: 100px;
 }
+
