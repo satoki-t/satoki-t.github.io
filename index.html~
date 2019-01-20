@@ -47,6 +47,8 @@ $(function($){
   <div class="blockb">
     コンテンツD<br>
   </div>
+
+
   <h2>Academic Degree</h2>
   <dl class="degree">
     <dt><span>2018. 6 : Doctor of Engineering</span></dt>
