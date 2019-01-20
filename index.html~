@@ -44,6 +44,16 @@ $(function($){
 <!--   <div class="photo"> -->
     <img src="images/myphoto_small.jpg" alt="フォトサンプル" width="100" height="100">
 <!--   </div><\!-- /.photo -\-> -->
+<ul class="left">
+<li>チューリップ</li>
+<li>あじさい</li>
+<li>たんぽぽ</li>
+</ul>
+<ul class="right">
+<li>ひまわり</li>
+<li>すみれ</li>
+<li>パンジー</li>
+</ul>
   <h2>Academic Degree</h2>
   <dl class="degree">
     <dt><span>2018. 6 : Doctor of Engineering</span></dt>
