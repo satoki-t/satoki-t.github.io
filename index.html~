@@ -31,7 +31,7 @@ $(function($){
   <img src="images/myphoto_small.jpg" alt="フォトサンプル" width="100" height="100"><br>
   <h3>satoki-t [ at ] rs.tus.ac.jp</h3>
   <h3>Post-doctoral researcher</h3>
-  <h3>Tokyo University of Science</h3>
+  <h3>BRLab in Tokyo University of Science</h3>
   <h2>Academic Degree</h2>
   <dl class="degree">
     <dt><span>2018. 6 : Doctor of Engineering</span></dt>
@@ -129,6 +129,7 @@ $(function($){
 <nav>
   <ul>
     <li><a href="index.html">PROFILE</a></li>
+    <li><a href="research.html">RESEARCH</a></li>
     <li><a href="contact.html">CONTACT</a></li>
     <li><a href="publication.html">PUBLICATION</a></li>
   </ul>
