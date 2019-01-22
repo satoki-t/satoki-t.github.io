@@ -198,6 +198,120 @@ td {
 	max-width:100%;
 }
 
+/* 写真中央寄せ */
+.imgC {
+	clear:both;
+	overflow:hidden;
+	margin-bottom:50px;
+	text-align:center;
+}
+.imgC img {
+	border-radius:5px;
+	margin-bottom:0.5em;
+}
+
+/* 写真左寄せ */
+.imgL {
+	clear:both;
+	overflow:hidden;
+	margin-bottom:50px;
+}
+.imgL img {
+	float:left;
+	margin:0 1em 0.5em 0;
+	border-radius:5px;
+}
+
+/* 写真右寄せ */
+.imgR {
+	clear:both;
+	overflow:hidden;
+	margin-bottom:50px;
+}
+.imgR img {
+	float:right;
+	margin:0 0 1em 0.5em;
+	border-radius:5px;
+}
+
+/* 2カラム（スマートフォンでは1カラム) */
+.twoCol {
+	overflow:hidden;
+	margin-bottom:50px;
+}
+.twoColInner {
+	overflow:hidden;
+	margin-right:-2%;
+}
+.twoColInner div {
+	width:48%;
+	float:left;
+	margin-right:2%;
+}
+.twoColInner div:nth-child(2n+1) {
+	clear:both;
+}
+.twoColInner img {
+	width:100%;
+	margin-bottom:0.5em;
+	border-radius:5px;
+}
+
+/* 3カラム（スマートフォンでは1カラム) */
+.threeCol {
+	overflow:hidden;
+	margin-bottom:50px;
+}
+.threeColInner {
+	overflow:hidden;
+	margin-right:-3%;
+}
+.threeColInner div {
+	width:31%;
+	float:left;
+	margin-right:2%;
+}
+.threeColInner div:nth-child(3n+1) {
+	clear:both;
+}
+.threeColInner img {
+	width:100%;
+	margin-bottom:0.5em;
+	border-radius:5px;
+}
+
+/* ボタン（タイプ1） */
+.btn01 a {
+	display:block;
+	padding:2% 2% 2% 50px;
+	color:#fff;
+	text-decoration:none;
+	border-radius:5px;
+	background:#1b1b1b url('../images/bg_arrow_white.png') 20px 50% no-repeat;
+	transition:all 0.2s ease 0s;
+}
+.btn01 a:hover {
+	background:#2e2e2e url('../images/bg_arrow_white.png') 20px 50% no-repeat;
+	transition:all 0.2s ease 0s;
+}
+
+/* ボタン（タイプ2） */
+.btn02 a {
+	display:block;
+	padding:2%;
+	color:#1b1b1b;
+	text-decoration:none;
+	border-radius:5px;
+	border:1px solid #1b1b1b;
+	background:#fff;
+	transition:all 0.2s ease 0s;
+}
+.btn02 a:hover {
+	color:#fff;
+	background:#1b1b1b;
+	transition:all 0.2s ease 0s;
+}
+
 /*================================================
  *  ヘッダー
  ================================================*/
@@ -302,7 +416,58 @@ footer {
 	header {
 		width:100%;
 	}
+	h2 {
+		margin-top:30px;
+	}
 
+	.imgC {
+		margin-bottom:30px;
+	}
+	.imgC img {
+		max-width:100%;
+	}
+
+	.imgL {
+		margin-bottom:30px;
+	}
+	.imgL img {
+		float:none;
+		max-width:100%;
+		margin-right:0;
+	}
+
+	.imgR {
+		margin-bottom:30px;
+	}
+	.imgR img {
+		float:none;
+		max-width:100%;
+		margin-left:0;
+	}
+
+	.twoCol {
+		margin-right:0;
+		margin-bottom:30px;
+	}
+	.twoColInner {
+		margin-right:0;
+	}
+	.twoColInner div {
+		float:none;
+		width:100%;
+	}
+
+	.threeCol {
+		margin-bottom:30px;
+	}
+
+	.threeColInner {
+		margin-right:0;
+	}
+	.threeColInner div {
+		float:none;
+		width:100%;
+	}
 }
 
 div.blocka {
