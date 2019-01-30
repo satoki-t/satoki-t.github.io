@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>Satoki Tsuichihara - Ph. D in Humanoid Robotics</title>
+<meta name="viewport" content="width=device-width">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery.smoothscroll.js"></script>
+<script type="text/javascript" src="js/jquery.scrollshow.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script>
+$(function($){
+	$('html').smoothscroll({easing : 'swing', speed : 1000, margintop : 30, headerfix : $('nav')});
+	$('.totop').scrollshow({position : 500});
+});
+</script>
+<!--[if lt IE 9]>
+	<script src="js/html5shiv.js"></script>
+	<script src="js/css3-mediaqueries.js"></script>
+<![endif]-->
+</head>
+<body>
+<header>
+<h1>Real-time humanoid approaching kitchen</h1>
+<p>
+
+  <div id="profile">
+    <div class="imgL">
+    <img src="images/whole_kitchen.jpg" alt="" width="200" height="200">
+    With the humanoid robot HRP-4, we implemented the motion of pouring a cup of water using an electrical pot.<br>
+    We improved the real-timeness by generating a dual-arm coordinated motion.
+  </div><!-- /.imgR -->  
+  <video width="100%" controls controlslist="nodownload"><source src="videos/whole_shortvision.mp4"> </video>
+  <h2 id="paper">Publication</h2>
+    <ol>
+      <li> <u>Satoki Tsuichihara</u>, Yuya Hakamata, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu, and Tsukasa Ogasawara,<br>
+  <em>Real-time whole-body motion generation using torso posture regression and center of mass</em>,<br>
+  ROBOMECH Journal, Vol. 5, No. 1, pp. 1-13, 2018.<br>
+  [<a href="https://rdcu.be/MMy5" target="_blank">Robomech Journal</a>][<a href="./bibtex/robomechjournal18_Tsuichihara.txt">bibtex</a>]
+      </li>
+    </ol>    
+  </div><!-- /.profile -->
+
+</p>
+</header>
+
+<nav>
+    <div>
+      <script src="js/header.js"></script>
+    </div>
+</nav>
+
+
+<div id="contents">
+	<div class="photo"><img src="images/cover_soni_small.png" alt="フォトサンプル"></div><!-- /.photo -->
+</div><!-- /.contents -->
+
+<footer>
+	<div><small>Copyright &#169; 2018 - 2019 Satoki Tsuichihara All Rights Reserved.</small></div><!-- /.copyright -->
+</footer>
+
+<div class="totop"><a href="#"><img src="images/totop.png" alt="ページのトップへ戻る"></a></div><!-- /.totop -->
+</body>
+</html>
