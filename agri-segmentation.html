@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>Satoki Tsuichihara - Ph. D in Humanoid Robotics</title>
+<meta name="viewport" content="width=device-width">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery.smoothscroll.js"></script>
+<script type="text/javascript" src="js/jquery.scrollshow.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script>
+$(function($){
+	$('html').smoothscroll({easing : 'swing', speed : 1000, margintop : 30, headerfix : $('nav')});
+	$('.totop').scrollshow({position : 500});
+});
+</script>
+<!--[if lt IE 9]>
+	<script src="js/html5shiv.js"></script>
+	<script src="js/css3-mediaqueries.js"></script>
+<![endif]-->
+</head>
+<body>
+<header>
+<h1>Grassland Segmentation</h1>
+<p>
+
+  <div id="profile">
+    <div class="imgL">
+    <img src="images/grassland_segmentation.jpg" alt="" width="200" height="200">
+      Farmers have interests to install the automation of checking grass and condition of raising cows using ICT techniques.
+      In particular, it takes a long time to measure the number of broad-leaved weeds, which badly affect the raising cows, for increasing farm crops efficiently and for observing the health condition of the raising cows.
+      We develop a farm management system that suggests plans for removing the broad-leaved weeds using grass images captured by a drone and helps in deciding the amount and the place to put fertilizers.
+      A region segmentation based on the deep-learning method can detect the broad-leaved weeds with an accuracy of around 80 %. Using the results of the segmentation, we can calculate the area covered by broad-leaved weeds in one region of the farm in order to provide suggestions for removing the weeds.
+      By comparing the GPS data of all the sensors, we can find grazing cows’ groups and the areas that have larger amounts of cow dung.
+      There is no need to add any fertilizers in these areas, which results in a reduction in cost.
+  </div><!-- /.imgR -->  
+<!--   <video width="100%" controls controlslist="nodownload"><source src="videos/pro_continu02_FARUP.mp4"> </video> -->
+  <h2 id="paper">Publication</h2>
+    <ol>
+      <li> <u>Satoki Tsuichihara</u>, Shingo Akita, Reiichirou Ike, Masahiro Shigeta, Hiroshi Takemura, Takahiro Natori, Naoyuki Aikawa, Kazumasa Shindo, Yasuyuki Ide, and Shigeki Tejima,<br>
+  <em>Drone and GPS sensors-based grassland management using deep-learning image segmentation</em>,<br>
+  in the workshop on NFCR in the third IEEE International Conference on Robotic Computing (IRC2019), xxxx, Naples, Italy, Feb 25 2019  (accepted, to be appeard).
+      </li>
+      <li><u>築地原 里樹</u>, 竹村 裕, 名取 隆廣, 相川 直幸, 進藤 和政, 手島 茂樹, 一條 俊浩:<br>
+        <em>ドローンとGPSセンサを用いた牛と草地管理</em>,<br>
+        第19回計測自動制御学会システムインテグレーション部門講演会 (SI2018), 1D5-09, pp. 1110-1111, 2018.</li>
+      <li>名取 隆廣, 有山 夏子, <u>築地原 里樹</u>, 竹村 裕, 相川 直幸:<br>
+        <em>IoTデバイスを用いた放牧牛の活動量計測システムの検討</em>,<br>
+        第33回信号処理シンポジウム, P-23, 2018.</li>
+    </ol>    
+  </div><!-- /.profile -->
+
+</p>
+</header>
+
+<nav>
+    <div>
+      <script src="js/header.js"></script>
+    </div>
+</nav>
+
+
+<div id="contents">
+	<div class="photo"><img src="images/cover_soni_small.png" alt="フォトサンプル"></div><!-- /.photo -->
+</div><!-- /.contents -->
+
+<footer>
+	<div><small>Copyright &#169; 2018 - 2019 Satoki Tsuichihara All Rights Reserved.</small></div><!-- /.copyright -->
+</footer>
+
+<div class="totop"><a href="#"><img src="images/totop.png" alt="ページのトップへ戻る"></a></div><!-- /.totop -->
+</body>
+</html>
