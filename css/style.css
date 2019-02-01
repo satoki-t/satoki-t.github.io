@@ -260,7 +260,8 @@ td {
 /* 3カラム（スマートフォンでは1カラム) */
 .threeCol {
 	overflow:hidden;
-	margin-bottom:50px;
+	margin-bottom:20px;
+	/*- original margin-bottom:50px;-*/
 }
 .threeColInner {
 	overflow:hidden;
