@@ -78,7 +78,16 @@ $(function($){
     <dd>
       <div>
 	for <u>Satoki Tsuichihara</u>, Shingo Akita, Reiichirou Ike, Hiroshi Takemura, Kazumasa Shindou, Yasuyuki Ide, Shigeki Tejima:<br>
-	<em>Deep-learning based image segmentation for broad-leaved weeds and proposal map for fertilization</em> (JSGS 2019).
+	<em>Deep-learning based image segmentation for broad-leaved weeds and proposal map for fertilization</em> (JSGS 2019).<br>
+	[<a href="https://www.tus.ac.jp/today/archive/20190404006.html" target="_blank">Link</a> (JP)]
+      </div>
+    </dd>
+    <dt><span>2019. 3 : Best presentation award in Domestic conference of the 19th SICE System Integration Division Annual Conference</span></dt>
+    <dd>
+      <div>
+	for <u>Satoki Tsuichihara</u>, Hiroshi Takemura, Takahiro Natori, Naoyuki Aikawa, Kazumasa Shindou, Shigeki Tejima, Toshihiro Ichijo:<br>
+	<em>Cows and Meadows Management Using Drone and GPS sensors</em> (SI 2019).<br>
+	[<a href="https://www.tus.ac.jp/today/archive/20190404004.html" target="_blank">Link</a> (JP)]
       </div>
     </dd>
     <dt><span>2011. 12 : RT-middleware contest 2011 Incentive Award (Global Standard prize）</span></dt>
@@ -99,7 +108,7 @@ $(function($){
       </li>
     </ol>
   </dl>
-  <h2>Invited Talks</h2>
+  <h2>Invited Talks / Seminar</h2>
   <dl class="talk">
     <ol>
       <li>“Using a Weighted Pseudo-Inverse Matrix to Generate Upper Body Motions for a Humanoid Robot Doing Household Tasks,” Sapienza University, Rome, Italy, March 18, 2016.</li>
