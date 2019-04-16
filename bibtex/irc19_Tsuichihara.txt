@@ -1,0 +1,13 @@
+@INPROCEEDINGS{Tsuichihara2019, 
+author={S. {Tsuichihara} and S. {Akita} and R. {Ike} and M. {Shigeta} and H. {Takemura} and T. {Natori} and N. {Aikawa} and K. {Shindo} and Y. {Ide} and S. {Tejima}}, 
+booktitle={2019 Third IEEE International Conference on Robotic Computing (IRC)}, 
+title={Drone and GPS Sensors-Based Grassland Management Using Deep-Learning Image Segmentation}, 
+year={2019}, 
+volume={}, 
+number={}, 
+pages={608-611}, 
+abstract={Farmers have interests to install the automation of checking grass and condition of raising cows using ICT techniques. In particular, it takes a long time to measure the number of broad-leaved weeds, which badly affect the raising cows, for increasing farm crops efficiently and for observing the health condition of the raising cows. We develop a farm management system that suggests plans for removing the broad-leaved weeds using grass images captured by a drone and helps in deciding the amount and the place to put fertilizers. A region segmentation based on the deep-learning method can detect the broad-leaved weeds with an accuracy of around 80 %. Using the results of the segmentation, we can calculate the area covered by broad-leaved weeds in one region of the farm in order to provide suggestions for removing the weeds. By comparing the GPS data of all the sensors, we can find grazing cows' groups and the areas that have larger amounts of cow dung. There is no need to add any fertilizers in these areas, which results in a reduction in cost.}, 
+keywords={crops;farming;geophysical image processing;Global Positioning System;image segmentation;learning (artificial intelligence);GPS sensors-based grassland management;deep-learning image segmentation;ICT techniques;broad-leaved weeds;farm crops;farm management system;grass images;region segmentation;deep-learning method;grazing cows;Cows;Global Positioning System;Image segmentation;Sensors;Fertilizers;Diseases;automated agriculture, image segmentation using deep learning, drone}, 
+doi={10.1109/IRC.2019.00123}, 
+ISSN={}, 
+month={Feb},}
