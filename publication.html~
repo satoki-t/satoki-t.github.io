@@ -41,7 +41,7 @@ $(function($){
       <li> <u>Satoki Tsuichihara</u>, Shingo Akita, Reiichirou Ike, Masahiro Shigeta, Hiroshi Takemura, Takahiro Natori, Naoyuki Aikawa, Kazumasa Shindo, Yasuyuki Ide, and Shigeki Tejima,<br>
 	<em>Drone and GPS sensors-based grassland management using deep-learning image segmentation</em>,<br>
 	in the workshop on NFCR in the third IEEE International Conference on Robotic Computing (IRC2019), pp. 608-611, Naples, Italy, Feb 27 2019  (Oral presentation).<br>
-	[<a href="https://www.researchgate.net/publication/331356671_Drone_and_GPS_sensors-based_grassland_management_using_deep-learning_image_segmentation" target="_blank">Research gate</a>]
+	[<a href="https://www.researchgate.net/publication/331356671_Drone_and_GPS_sensors-based_grassland_management_using_deep-learning_image_segmentation" target="_blank">Research gate</a>][<a href="./bibtex/irc19_Tsuichihara.txt">bibtex</a>]
       </li>
       <li> Ryota Matsuura, <u>Satoki Tsuichihara</u>, Gustavo Alfonso Garcia Ricardez, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara,<br>
 	<em>Reviewing Eating Habits Using Video Summarization of Eating Scenes</em>,<br>
@@ -79,7 +79,7 @@ $(function($){
     <ol>
       <li><u>築地原 里樹</u>, 秋田 真悟, 池 玲一郎, 竹村 裕, 進藤 和政, 井出 保行, 手島 茂樹:<br>
         <em>深層学習を用いた広葉雑草認識と施肥提案マップ作成</em>,<br>
-   	    日本草地学会誌（第75回日本草地学会広島大会）, Vol. 65, Y05, pp. 6, 2019.<br>
+   	    日本草地学会誌（第75回日本草地学会広島大会）, Vol. 65, Y05, p. 6, 2019.<br>
 	[<a href="https://www.tus.ac.jp/today/archive/20190404006.html" target="_blank">受賞</a>]</li>
       <li><u>築地原 里樹</u>, 竹村 裕, 名取 隆廣, 相川 直幸, 進藤 和政, 手島 茂樹, 一條 俊浩:<br>
         <em>ドローンとGPSセンサを用いた牛と草地管理</em>,<br>
