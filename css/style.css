@@ -483,3 +483,8 @@ div.blockb {
    height: 100px;
 }
 
+@media print{
+	.no_print{
+		display: none;
+	}
+}
