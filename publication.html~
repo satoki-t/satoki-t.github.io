@@ -33,15 +33,43 @@ $(function($){
       <li> <u>Satoki Tsuichihara</u>, Yuya Hakamata, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu, and Tsukasa Ogasawara,<br>
 	<em>Real-time whole-body motion generation using torso posture regression and center of mass</em>,<br>
 	ROBOMECH Journal, Vol. 5, No. 1, pp. 1-13, 2018.<br>
-	[<a href="https://rdcu.be/MMy5" target="_blank">Robomech Journal</a>][<a href="./bibtex/robomechjournal18_Tsuichihara.txt">bibtex</a>]
+	<p class="no_print">[<a href="https://rdcu.be/MMy5" target="_blank">Robomech Journal</a>][<a href="./bibtex/robomechjournal18_Tsuichihara.txt">bibtex</a>]</p>
+      </li>
+      <li> Asaki Akagi, <u>Satoki Tsuichihara</u>, Shinichi Kosugi, and Hiroshi Takemura,<br>
+	<em>Development of Rehabilitation and Training Device Considering Ankle Degree of Freedom</em>,<br>
+	Journal of Robotics and Mechatronics, Vol. v, No. w, pp. xx-yy, 20zz. (Under review)<br>
       </li>
     </ol>
   <h2 id="international">International Conference</h2>
     <ol>
+      <li> Kunio Shimoda, <u>Satoki Tsuichihara</u>, Hiroshi Takemura, Kohei Soga, Kazuhiro Suga, Wei-Jen Lai, Sunmin Kim, Zuisei Kanno, and Motohiro Uo,<br>
+	<em>Orthodontic Force and Moment Sensing Device: Influence of Deflection of Wire and Tooth's Orientation</em>,<br>
+	In Proceedings of the 38th Annual IEEE International Conference on Systems, Man, and Cybernetics (SMC 2019), pp. xx-yy, Nicolaus Hotel, Bari, Italy, Oct 6-9, 2019 (Accepted, to be appeared).
+      </li>
+      <li> Hiroya Komori, Kouhei Watanabe, <u>Satoki Tsuichihara</u>, Hiroshi Takemura, Mieko Imai, Mikiko Haraguchi, and Shengpu Chou,<br>
+	<em>Screening System for Diabetes Peripheral Neuropathy Using Foot Plantar Images on Different Hardness Floor</em>,<br>
+	In Proceedings of the 38th Annual IEEE International Conference on Systems, Man, and Cybernetics (SMC 2019), pp. xx-yy, Nicolaus Hotel, Bari, Italy, Oct 6-9, 2019 (Accepted, to be appeared).
+      </li>
+      <li> Takuya Fujinuma, Shinichi Kosugi, Hiroaki Kurokawa, Yasuhito Tanaka, Hiroshi Takemura, and <u>Satoki Tsuichihara</u>,<br>
+	<em>Evaluation of Tibiofibular Joint Alignment in Ankle Osteoarthritis Based on 3D Bone Thickness</em>,<br>
+	In Proceedings of the 38th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC 2019), pp. xx-yy, City Cube Berlin, Germany, Jul 23-27, 2019 (Oral Presentation, Accepted, to be appeared).
+      </li>
+      <li> Shingo Akita, <u>Satoki Tsuichihara</u>, and Hiroshi Takemura,<br>
+	<em>Detection of Rapid Mouse’s Scratching Behavior Based on Shape and Motion Features</em>,<br>
+	In Proceedings of the 38th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC 2019), pp. xx-yy, City Cube Berlin, Germany, Jul 23-27, 2019 (Poster Presentation, Accepted, to be appeared).
+      </li>
+      <li> Kohei Akimoto, <u>Satoki Tsuichihara</u>, Toshihiro Takamatsu, Kohei Soga, Hideo Yokota, Masaaki Ito, Naoto Gotoda, and Hiroshi Takemura,<br>
+	<em>Evaluation of Laser-Induced Plasma Ablation Focusing on the Difference in Pulse Duration</em>,<br>
+	In Proceedings of the 38th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC 2019), pp. xx-yy, City Cube Berlin, Germany, Jul 23-27, 2019 (Oral Presentation, Accepted, to be appeared).
+      </li>
+      <li> Takahiro Natori, Natuko Ariyama, <u>Satoki Tsuichihara</u>, Hiroshi Takemura and Naoyuki Aikawa,<br>
+	<em>Study of Activity Collecting System for Grazing Cattle</em>,<br>
+	In Proceedings of the 34th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2019), pp. xx-yy, Jeju Shinhwa World, Republic of Korea, June 23-26, 2019 (Oral Presentation, Accepted, to be appeared).
+      </li>
       <li> <u>Satoki Tsuichihara</u>, Shingo Akita, Reiichirou Ike, Masahiro Shigeta, Hiroshi Takemura, Takahiro Natori, Naoyuki Aikawa, Kazumasa Shindo, Yasuyuki Ide, and Shigeki Tejima,<br>
 	<em>Drone and GPS sensors-based grassland management using deep-learning image segmentation</em>,<br>
-	in the workshop on NFCR in the third IEEE International Conference on Robotic Computing (IRC2019), pp. 608-611, Naples, Italy, Feb 27 2019  (Oral presentation).<br>
-	[<a href="https://www.researchgate.net/publication/331356671_Drone_and_GPS_sensors-based_grassland_management_using_deep-learning_image_segmentation" target="_blank">Research gate</a>][<a href="./bibtex/irc19_Tsuichihara.txt">bibtex</a>]
+	In Proceedings of the third IEEE International Conference on Robotic Computing (IRC2019), pp. 608-611, Naples, Italy, Feb 27 2019  (Oral presentation).<br>
+	<p class="no_print">[<a href="https://www.researchgate.net/publication/331356671_Drone_and_GPS_sensors-based_grassland_management_using_deep-learning_image_segmentation" target="_blank">Research gate</a>][<a href="./bibtex/irc19_Tsuichihara.txt">bibtex</a>]</p>
       </li>
       <li> Ryota Matsuura, <u>Satoki Tsuichihara</u>, Gustavo Alfonso Garcia Ricardez, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara,<br>
 	<em>Reviewing Eating Habits Using Video Summarization of Eating Scenes</em>,<br>
@@ -54,7 +82,7 @@ $(function($){
       <li> <u>Satoki Tsuichihara</u>, Yuya Hakamata, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu, and Tsukasa Ogasawara,<br>
 	<em>Accelerating Whole-body Motion Generation Using Regression of the Torso Posture of a Humanoid Robot</em>,<br>
 	In Proceedings of the 16th IEEE-RAS International Conference on Humanoid Robots (Humanoids 2016), WeAT2.3, pp. 16-21, The Westin Resort & Spa Cancun, Mexico, Nov 15-17, 2016 (Oral Presentation).<br>
-	[<a href="https://www.researchgate.net/publication/309385137_Accelerating_Whole-body_Motion_Generation_Using_Regression_of_the_Torso_Posture_of_a_Humanoid_Robot" target="_blank">Research gate</a>][<a href="./bibtex/humanoids16_Tsuichihara.txt">bibtex</a>]
+	<p class="no_print">[<a href="https://www.researchgate.net/publication/309385137_Accelerating_Whole-body_Motion_Generation_Using_Regression_of_the_Torso_Posture_of_a_Humanoid_Robot" target="_blank">Research gate</a>][<a href="./bibtex/humanoids16_Tsuichihara.txt">bibtex</a>]</p>
       </li>
       <li> Yuya Hakamata, <u>Satoki Tsuichihara</u>, Jun Takamatsu, and Tsukasa Ogasawara,<br>
 	<em>Whole body motion generation of humanoid robot using a predicted reaction force</em>,<br>
@@ -67,16 +95,34 @@ $(function($){
       <li> <u>Satoki Tsuichihara</u>, Akihiko Yamaguchi, Jun Takamatsu, and Tsukasa Ogasawara:<br>
 	<em>Using a Weighted Pseudo-Inverse Matrix to Generate Upper Body Motion for a Humanoid Robot Doing Household Tasks</em>,<br>
 	In Proceedings of 2015 IEEE International Conference on Robotics and Biomimetics (ROBIO2015), pp. 333-338, Zhuhai, China, December 6-9, 2015 (Oral Presentation).<br>
-	[<a href="https://www.researchgate.net/publication/286170359_Using_a_Weighted_Pseudo-Inverse_Matrix_to_Generate_Upper_Body_Motion_for_a_Humanoid_Robot_Doing_Household_Tasks" target="_blank">Research gate</a>][<a href="./bibtex/robio15_Tsuichihara.txt">bibtex</a>]
+	<p class="no_print">[<a href="https://www.researchgate.net/publication/286170359_Using_a_Weighted_Pseudo-Inverse_Matrix_to_Generate_Upper_Body_Motion_for_a_Humanoid_Robot_Doing_Household_Tasks" target="_blank">Research gate</a>][<a href="./bibtex/robio15_Tsuichihara.txt">bibtex</a>]</p>
       </li>
       <li> <u>Satoki TSUICHIHARA</u>, Masanao KOEDA, Seiji SUGIYAMA, and Tsuneo YOSHIKAWA:<br>
 	<em>A sliding walk method for humanoid robots using ZMP feedback control</em>,<br>
 	In Proceedings of 2011 IEEE International Conference on Robotics and Biomimetics (ROBIO2011), pp. 275-280, Phuket Island, Thailand, December 7-11, 2011 (Oral Presentation).<br>
-	[<a href="https://www.researchgate.net/publication/241628523_A_sliding_walk_method_for_humanoid_robots_using_ZMP_feedback_control" target="_blank">Research gate</a>][<a href="./bibtex/robio11_Tsuichihara.txt">bibtex</a>]
+	<p class="no_print">[<a href="https://www.researchgate.net/publication/241628523_A_sliding_walk_method_for_humanoid_robots_using_ZMP_feedback_control" target="_blank">Research gate</a>][<a href="./bibtex/robio11_Tsuichihara.txt">bibtex</a>]</p>
       </li>
     </ol>
   <h2 id="domestic">Domestic Conference</h2>
     <ol>
+      <li>秋田 真悟，<u>築地原 里樹</u>，竹村 裕:<br>
+		<em>動作軌跡特徴 Dense Trajectories を用いたマウスの擦過行動の検出</em>,<br>
+		ロボティクスメカトロニクス講演会2019 (ROBOMECH2019), 2P1-I07, 2019年6月6-7日.</li>
+      <li>小森 啓也，渡邉 光平，<u>築地原 里樹</u>，竹村 裕，周 聖浦，原口 美貴子，今井 美恵子:<br>
+		<em>高出力レーザーによるプラズマ蒸散を用いた穿刺がん治療法</em>,<br>
+		ロボティクスメカトロニクス講演会2019 (ROBOMECH2019), 1P1-B03, 2019年6月6-7日.</li>
+      <li>秋本 康平，竹村 裕，<u>築地原 里樹</u>，高松 利寛，曽我 公平，横田 秀夫，伊藤 雅昭，後藤田 直人:<br>
+		<em>高出力レーザーによるプラズマ蒸散を用いた穿刺がん治療法</em>,<br>
+		ロボティクスメカトロニクス講演会2019 (ROBOMECH2019), 1P1-B04, 2019年6月6-7日.</li>
+      <li>神崎 貴大，澤留 朗，<u>築地原 里樹</u>，多田 充徳，竹村 裕:<br>
+		<em>リアルタイム歩行イベント検出に基づく音を用いた介入による歩行速度の変化</em>,<br>
+		ロボティクスメカトロニクス講演会2019 (ROBOMECH2019), 2P2-G08, 2019年6月6-7日.</li>
+      <li>藤沼 拓也，<u>築地原 里樹</u>，小杉 真一，黒川 紘章，田中 康仁，竹村 裕:<br>
+		<em>Go-ICP を用いた距骨および踵骨の3次元的相対的位置関係の評価</em>,<br>
+		ロボティクスメカトロニクス講演会2019 (ROBOMECH2019), 1P1-A10, 2019年6月6-7日.</li>
+      <li>下田 晋寛，竹村 裕，<u>築地原 里樹</u>，重田 将宏，曽我 公平，須賀 一博，頼 威任，キム スンミン，簡野 瑞誠，宇尾 基弘:<br>
+		<em>歯の回転方向と歯列矯正モーメントの関係</em>,<br>
+		ロボティクスメカトロニクス講演会2019 (ROBOMECH2019), 1P1-A09, 2019年6月6-7日.</li>
       <li><u>築地原 里樹</u>, 秋田 真悟, 池 玲一郎, 竹村 裕, 進藤 和政, 井出 保行, 手島 茂樹:<br>
         <em>深層学習を用いた広葉雑草認識と施肥提案マップ作成</em>,<br>
    	    日本草地学会誌（第75回日本草地学会広島大会）, Vol. 65, Y05, p. 6, 2019.<br>
@@ -85,6 +131,9 @@ $(function($){
         <em>ドローンとGPSセンサを用いた牛と草地管理</em>,<br>
    	    第19回計測自動制御学会システムインテグレーション部門講演会 (SI2018), 1D5-09, pp. 1110-1111, 2018.<br>
       [<a href="https://www.tus.ac.jp/today/archive/20190404004.html" target="_blank">受賞</a>]</li>
+      <li>赤木 朝輝，竹村 裕，<u>築地原 里樹</u>，小杉 真一:<br>
+        <em>パラレルリンク機構による足関節運動軸を考慮した底背屈運動の計測と再現</em>,<br>
+   	    第19回計測自動制御学会システムインテグレーション部門講演会 (SI2018), 1A2-05, pp. 1110-1111, 2018.</li>
       <li>名取 隆廣, 有山 夏子, <u>築地原 里樹</u>, 竹村 裕, 相川 直幸:<br>
       	<em>IoTデバイスを用いた放牧牛の活動量計測システムの検討</em>,<br>
         第33回信号処理シンポジウム, P-23, 2018.</li>
@@ -103,7 +152,7 @@ $(function($){
       <li>松浦 亮太, <u>築地原 里樹</u>, Garcia Ricardez Gustavo Alfonso, 丁 明, 高松 淳, 小笠原 司:<br>
 		<em>食生活の振り返り支援のための摂食場面の抽出</em>,<br>
 		第205回研究報告コンピュータビジョンとイメージメディア (CVIM), 2017-CVIM-205 (15), 2017年1月19-20日.<br>
-		[<a href="http://id.nii.ac.jp/1001/00176578/" target="_blank">情報処理学会電子図書館</a>]
+		<p class="no_print">[<a href="http://id.nii.ac.jp/1001/00176578/" target="_blank">情報処理学会電子図書館</a>]</p>
       <li>角間 大輔, <u>築地原 里樹</u>, Gustavo Alfonso Garcia Ricardez, 高松 淳, 小笠原 司:<br>
 		<em>グラフマッチングを用いた占有格子地図とフロアマップの対応付けと位置合わせ</em>,<br>
 		第17回計測自動制御学会システムインテグレーション部門講演会 (SI2016), 3I1-5, 2016年12月15-17日.</li>
@@ -147,7 +196,7 @@ $(function($){
   <h2 id="thesis">Thesis</h2>
     <ol>
       <li><em>Real-time Whole-body Motion Generation for Humanoid Robots Using Torso Posture Regression and Center of Mass</em>,<br>
-	Nara Institute of Science of Technology, June, 2018. 		[<a href="https://library.naist.jp/mylimedio/search/av1.do?target=local&bibid=87858" target="_blank">Digital Library</a>]<br>
+	Nara Institute of Science of Technology, June, 2018. 		<p class="no_print">[<a href="https://library.naist.jp/mylimedio/search/av1.do?target=local&bibid=87858" target="_blank">Digital Library</a>]</p><br>
       </li>
       <li><em>Predicting the execution of push recovery using stepping for humanoid robots</em> (in Japanese),<br>
 	Nara Institute of Science of Technology, March, 2013.<br>
