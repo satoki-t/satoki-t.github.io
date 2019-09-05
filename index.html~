@@ -114,6 +114,8 @@ $(function($){
   <h2>Invited Talks / Seminar</h2>
   <dl class="talk">
     <ol>
+      <li>“Real-time whole-body motion generation using torso posture regression and center of mass,” Karlsruher Institut für Technologie, Germany, March 1, 2019.</li>
+      <li>“Real-time whole-body motion generation using torso posture regression and center of mass,” Technical University of Munich, München, Germany, February 28, 2019. [<a href="https://www.ics.ei.tum.de/en/news/news-single-view/?tx_ttnews%5Btt_news%5D=402&cHash=0c088b1dadd9abd4a1aa0d84300d160b" target="_blank">Link</a>]</li>
       <li>“Using a Weighted Pseudo-Inverse Matrix to Generate Upper Body Motions for a Humanoid Robot Doing Household Tasks,” Sapienza University, Rome, Italy, March 18, 2016.</li>
       <li>“Using a Weighted Pseudo-Inverse Matrix to Generate Upper Body Motions for a Humanoid Robot Doing Household Tasks,” LIRMM (Le Laboratoire d’Informatique, de Robotique et de Microélectronique de Montpellier) / University of Montpellier, Montpellier, France, March 16, 2016.</li>
     </ol>
