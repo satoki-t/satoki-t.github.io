@@ -1,0 +1,14 @@
+
+@article{hakamata_ar2020,
+author = { Yuya   Hakamata  and  Satoki   Tsuichihara  and  Gustavo Alfonso   Garcia Ricardez  and  Jun   Takamatsu  and  Tsukasa   Ogasawara },
+title = {Pushing and pulling motion generation for humanoid robots using whole-body momentum control based on analytical inverse kinematics},
+journal = {Advanced Robotics},
+volume = {34},
+number = {21-22},
+pages = {1442-1454},
+year  = {2020},
+publisher = {Taylor & Francis},
+doi = {10.1080/01691864.2020.1817778}
+}
+
+
