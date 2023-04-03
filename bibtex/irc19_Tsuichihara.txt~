@@ -1,0 +1,9 @@
+@INPROCEEDINGS{Tsuichihara2015, 
+author={S. Tsuichihara and A. Yamaguchi and J. Takamatsu and T. Ogasawara}, 
+booktitle={2015 IEEE International Conference on Robotics and Biomimetics (ROBIO)}, 
+title={Using a weighted pseudo-inverse matrix to generate upper body motion for a humanoid robot doing household tasks}, 
+year={2015}, 
+pages={333-338}, 
+keywords={feedback;home automation;humanoid robots;manipulator kinematics;matrix algebra;service robots;OpenRTM;ZMP;dual arm inverse kinematics;household tasks;humanoid robot;pipeline calculation;service robots;upper body motion generation;visual feedback mechanism;weighted pseudo inverse matrix;weighted pseudo-inverse matrix;Cameras;Humanoid robots;Jacobian matrices;Kinematics;Robot kinematics;Robot vision systems}, 
+doi={10.1109/ROBIO.2015.7418789}, 
+month={Dec},}
